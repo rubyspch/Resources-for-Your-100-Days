@@ -10,9 +10,9 @@
 
 # How to contribute :pencil2:
 
-### To contribute, please fork this repo, add your contributions, then make a pull request back up to this repo. I’ll merge your contributions and you’ll be added to the contributors list. Dark green contributions for all!! 
+### To contribute, please fork this repo, add your contributions to resourcelist.md, then make a pull request back up to this repo. I’ll merge your contributions and you’ll be added to the contributors list. Dark green contributions for all!! 
 
-### If you need help with forking, pull requests or using markdown, please don’t let that stop you from contributing. See the resources below to help you, but if you have any other issues message me on Twitter @rubyspch and I will see if I can help! 
+### If you need help with forking, pull requests or using markdown, please don’t let that stop you from contributing. See the resources below to help you, but if you have any other issues message me on Twitter [@rubyspch](https://twitter.com/rubyspch) and I will see if I can help! 
 
 --- 
 
