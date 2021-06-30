@@ -5,6 +5,7 @@
 * [FreeCodeCamp](https://www.freecodecamp.org/learn/) - Free courses to learn everything from HMTL to Machine Learning.
 * [W3 Schools](https://www.w3schools.com/) - Useful site to use as a reference guide to brush up on topics. They also have quizzes to test your knowledge.
 * [MDN Web Docs](https://developer.mozilla.org/en-US/) - Documentation for a range of languages, e.g HTML, CSS, JavaScript.
+* [Javascript 30](https://javascript30.com/) - 30 Day Vanilla JS Coding Challenge
 
 ## Coding Challenge Websites
 
