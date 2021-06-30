@@ -43,6 +43,14 @@
 * [WebDevSimplified](https://www.youtube.com/c/WebDevSimplified/featured)
 * [FreeCodeCamp](https://www.youtube.com/c/Freecodecamp/featured)
 
+## CSS Learning by games
+* [CSS Dinner](https://flukeout.github.io/)
+* [Flexbox Zombies](https://mastery.games/)
+* [Grid Garden](https://mastery.games/)
+* [flexbox defence](http://www.flexboxdefense.com/)
+* [Flexbox Froggy](https://flexboxfroggy.com/)
+* [CodePip](https://codepip.com/)
+
 ## JavaScript
 
 * [Eloquent Javscript by Marijn Haverbeke](https://eloquentjavascript.net/index.html) - Great book to work through to pick up and practice JavaScript. 
