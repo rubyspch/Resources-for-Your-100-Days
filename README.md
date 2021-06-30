@@ -4,7 +4,7 @@
 
 This repository is for all of us to start contributing to open source. We are often told how important it is to contribute, so I wanted to create a place where contributing is easy and low-stakes. Feel free to try things and make mistakes, and we will fix them together! 
 
-**My goal is to pool the experiences of as many coders as possible, and create a list of resources for anyone to use to find new ways to learn.**
+**My goal is to pool the experiences of as many coders as possible, and create a list of resources for anyone to look at to find new ways to learn.**
 
 --- 
 
@@ -20,13 +20,13 @@ Also if have any advice for me to make this open source project better, please l
 
 # Contributing Guidelines :pencil:
 
-1. Fork the open-source-for-beginners repo and create a new branch to work on.
+1. Fork the Resources-for-Your-100-Days repo and create a new branch to work on.
 2. Open resourcelist.md in your new branch in the forked repo.
-3. Find the appropriate topic/language on existing the list, or add a new one.
+3. Find your topic/language on existing the list, or add a new one.
 4. Under the heading, add your resource (please include a link). It can be a video, a course, an article, a content creator... Anything! If it helped you, it could help others!
 5. Commit your changes.
-6. Create a pull request, and your contributions will be merged to the open-source-for-beginners repo. 
-7. Delete the forked repo once you're done **or** keep the main branch up to date by fetching changes upstream from this repo, and create new pull requests each time you contribute.
+6. Create a pull request, and your contributions will be merged to the Resources-for-Your-100-Days repo. 
+7. Delete the forked repo once you're done **or** keep the main branch up to date by fetching changes upstream from this repo, and create new pull requests each time you want to contribute to the list.
 
 ## Help for contributing :triangular_ruler:
 * Writing with Markdown - [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet)
@@ -42,7 +42,7 @@ Also if have any advice for me to make this open source project better, please l
 
 I have started this project for beginners like me, and I want it to be a warm and safe space for coders to get their first open source contributions. 
 Any off-topic/negative/derogatory content that is added to the list will be removed, and any pull requests that include abusive language will be closed without merging. 
-If you see any comments that you would like to report, please message me on [Twitter](https://twitter.com/rubyspch) and I will do what I can to sort it.
+If you see any comments that you would like to report, please message me on [Twitter](https://twitter.com/rubyspch) and I will look into it.
 
 [See full details of the Contributor Covenant here](https://www.contributor-covenant.org/version/2/0/code_of_conduct/)
 
