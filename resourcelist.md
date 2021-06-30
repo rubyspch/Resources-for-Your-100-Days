@@ -27,7 +27,7 @@
 * [HackerRank](https://www.hackerrank.com/)
 * [Project Euler](https://projecteuler.net/)
 * [Coderbyte](https://projecteuler.net/)
-* [codechef[(https://www.codechef.com/)
+* [codechef](https://www.codechef.com/)
 * [exercism](https://exercism.io/)
 * [Sphere Online Judge](https://spoj.com/)
 * [Codeforces](https://codeforces.com/)
