@@ -38,10 +38,6 @@ Also if have any advice for me to make this open source project better, please l
 
 --- 
 
-# Contributors List 👨‍👩‍👦‍👦
-
----
-
 # Code of Conduct :white_check_mark: 
 
 I have started this project for beginners like me, and I want it to be a warm and safe space for coders to get their first open source contributions. 
@@ -49,4 +45,12 @@ Any off-topic/negative/derogatory content that is added to the list will be remo
 If you see any comments that you would like to report, please message me on [Twitter](https://twitter.com/rubyspch) and I will do what I can to sort it.
 
 [See full details of the Contributor Covenant here](https://www.contributor-covenant.org/version/2/0/code_of_conduct/)
+
+---
+
+# Contributors List 👨‍👩‍👦‍👦
+
+[rubyspch](https://github.com/rubyspch) - Project Creator
+
+---
 
