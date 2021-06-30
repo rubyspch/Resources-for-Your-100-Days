@@ -1,4 +1,4 @@
-# Resources for Your 100 Days
+# Resources for Your 100 Days [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](code_of_conduct.md)
 
 ## This is a repository compiling the best resources that 100daysofcode coders use. Our favourite courses, challenges and places to learn. 
 
@@ -41,8 +41,11 @@ Also if have any advice for me to make this open source project better, please l
 
 ---
 
-# Code of Conduct :white_check_mark:
+# Code of Conduct :white_check_mark: 
 
 I have started this project for beginners like me, and I want it to be a warm and safe space for coders to get their first open source contributions. 
-Any off-topic/negative/derogatory content that is added to the list will be deleted, and any pull requests that include abusive language will be closed without merging to the repo. 
+Any off-topic/negative/derogatory content that is added to the list will be removed, and any pull requests that include abusive language will be closed without merging. 
 If you see any comments that you would like to report, please message me on [Twitter](https://twitter.com/rubyspch) and I will do what I can to sort it.
+
+[See full details of the Contributor Covenant here](https://www.contributor-covenant.org/version/2/0/code_of_conduct/)
+
