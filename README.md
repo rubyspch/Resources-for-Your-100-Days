@@ -31,6 +31,7 @@ Also if have any advice for me to make this open source project better, please l
 ## Help for contributing :triangular_ruler:
 * Writing with Markdown - [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet)
 * Getting started with open source - [Zero to Mastery open source guidelines](https://github.com/zero-to-mastery/start-here-guidelines)
+* Article showing the steps to make open source contributions - [Making an Open Source Contribution On Github](https://blog.devgenius.io/making-an-open-source-contribution-on-github-15f02460e3ff)
 * Free Course on contributing to open source projects - [How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
 * Forks - [About Forks in Github Documentation](https://docs.github.com/en/github/collaborating-with-pull-requests/working-with-forks)
 * Forking and Pull Requests using Git - [The Git Fork-Branch-Pull Workflow](https://www.tomasbeuzen.com/post/git-fork-branch-pull/)
