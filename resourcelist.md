@@ -32,6 +32,9 @@
 * [Sphere Online Judge](https://spoj.com/)
 * [Codeforces](https://codeforces.com/)
 * [Codesignal](https://codesignal.com/)
+* [frontend mentor](https://www.frontendmentor.io/)
+* [dev Challenges](https://devchallenges.io/)
+* [hackerEarth](https://www.hackerearth.com/)
 
 
 ## Coding Youtube Channels 
