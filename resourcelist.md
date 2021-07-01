@@ -64,9 +64,7 @@
 * University of Michigan Free Course - [Programming for Everybody (Getting Started with Python) by Charles Severance](https://www.futurelearn.com/courses/programming-for-everybody-python)
 
 ## Java
-* [Oracle Java Tutorial](https://docs.oracle.com/javase/tutorial/tutorialLearningPaths.html) - Contains info for beginners and intermediate foundation knowledge of Java.
-* [JavaTpoint](https://www.javatpoint.com/java-tutorial)  - Comprehensive resource and tutorials for Java.
-* [geeksforgeeks](https://www.geeksforgeeks.org/) - Useful for reference tutorials, learnings DSA, and has various articles related to programming.
+
 * [Oracle Java Tutorial](https://docs.oracle.com/javase/tutorial/tutorialLearningPaths.html) - Contains info for beginners and intermediate foundation knowledge of Java.
 * [JavaTpoint](https://www.javatpoint.com/java-tutorial)  - Comprehensive resource and tutorials for Java.
 * [geeksforgeeks](https://www.geeksforgeeks.org/) - Useful for reference tutorials, learnings DSA, and has various articles related to programming.
