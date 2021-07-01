@@ -6,17 +6,17 @@
 * [W3 Schools](https://www.w3schools.com/) - Useful site to use as a reference guide to brush up on topics. They also have quizzes to test your knowledge.
 * [MDN Web Docs](https://developer.mozilla.org/en-US/) - Documentation for a range of languages, e.g HTML, CSS, JavaScript.
 * [Javascript 30](https://javascript30.com/) - 30 Day Vanilla JS Coding Challenge
-* [codeacdemy](https://www.codecademy.com/) - Coding learning website
+* [Codecademy](https://www.codecademy.com/) - Coding learning website
 * [Frontend Mentor](https://www.frontendmentor.io/) - Improve your front-end coding skills by building real projects
 * [Coursera](https://www.coursera.org/in) - Contains best courses for every fields
 * [edX](https://www.edx.org/) - contain courses by top universities
-* [khan Acedemy](https://www.khanacademy.org/) -contain courses
+* [Khan Acedemy](https://www.khanacademy.org/) -contain courses
 * [SoloLearn](https://www.sololearn.com/home)
 * [The Odin Project](https://www.theodinproject.com/)
 * [Javascriupt.info](https://javascript.info/) - contain js docs and articles
 * [MIT Open Courseware](https://ocw.mit.edu/)
 * [web.dev](https://web.dev/)
-* [open acedemy](https://open.appacademy.io/)
+* [App Academy Open](https://open.appacademy.io/)
 
 ## Coding Challenge Websites
 
@@ -27,14 +27,15 @@
 * [HackerRank](https://www.hackerrank.com/)
 * [Project Euler](https://projecteuler.net/)
 * [Coderbyte](https://projecteuler.net/)
-* [codechef](https://www.codechef.com/)
+* [CodeChef](https://www.codechef.com/)
 * [exercism](https://exercism.io/)
 * [Sphere Online Judge](https://spoj.com/)
 * [Codeforces](https://codeforces.com/)
 * [Codesignal](https://codesignal.com/)
-* [frontend mentor](https://www.frontendmentor.io/)
+* [Frontend Mentor](https://www.frontendmentor.io/)
 * [dev Challenges](https://devchallenges.io/)
 * [hackerEarth](https://www.hackerearth.com/)
+* [Kaggle Competitions](https://www.kaggle.com/competitions) - Data Science challeges & practice datasets
 
 
 ## Coding Youtube Channels 
@@ -47,7 +48,7 @@
 * [CSS Dinner](https://flukeout.github.io/)
 * [Flexbox Zombies](https://mastery.games/)
 * [Grid Garden](https://mastery.games/)
-* [flexbox defence](http://www.flexboxdefense.com/)
+* [Flexbox Defence](http://www.flexboxdefense.com/)
 * [Flexbox Froggy](https://flexboxfroggy.com/)
 * [CodePip](https://codepip.com/)
 
@@ -62,9 +63,10 @@
 
 ## Python
 * University of Michigan Free Course - [Programming for Everybody (Getting Started with Python) by Charles Severance](https://www.futurelearn.com/courses/programming-for-everybody-python)
+* [Kaggle Microcourses](https://www.kaggle.com/learn) - Great short (5-10 hour) courses to get an introduction to Python, Machine Learning, and other Data Science topics.
 
 ## Java
 
 * [Oracle Java Tutorial](https://docs.oracle.com/javase/tutorial/tutorialLearningPaths.html) - Contains info for beginners and intermediate foundation knowledge of Java.
 * [JavaTpoint](https://www.javatpoint.com/java-tutorial)  - Comprehensive resource and tutorials for Java.
-* [geeksforgeeks](https://www.geeksforgeeks.org/) - Useful for reference tutorials, learning DSA, and has various articles related to programming.
+* [GeeksforGeeks](https://www.geeksforgeeks.org/) - Useful for reference tutorials, learning DSA, and has various articles related to programming.
