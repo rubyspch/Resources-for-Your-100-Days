@@ -67,4 +67,4 @@
 
 * [Oracle Java Tutorial](https://docs.oracle.com/javase/tutorial/tutorialLearningPaths.html) - Contains info for beginners and intermediate foundation knowledge of Java.
 * [JavaTpoint](https://www.javatpoint.com/java-tutorial)  - Comprehensive resource and tutorials for Java.
-* [geeksforgeeks](https://www.geeksforgeeks.org/) - Useful for reference tutorials, learnings DSA, and has various articles related to programming.
+* [geeksforgeeks](https://www.geeksforgeeks.org/) - Useful for reference tutorials, learning DSA, and has various articles related to programming.
