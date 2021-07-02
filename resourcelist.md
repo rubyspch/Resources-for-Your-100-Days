@@ -43,6 +43,16 @@
 * [Traversy Media](https://www.youtube.com/c/TraversyMedia/featured)
 * [WebDevSimplified](https://www.youtube.com/c/WebDevSimplified/featured)
 * [FreeCodeCamp](https://www.youtube.com/c/Freecodecamp/featured)
+* [Kevin Powell (CSS)](https://www.youtube.com/kepowob/featured)
+* [Fireship](https://www.youtube.com/c/Fireship/featured)
+
+## Useful CSS Resources
+* [CSS Tricks](https://css-tricks.com/)
+* [Curated Color Palettes](https://coolors.co/)
+* [Google Fonts](https://fonts.google.com/)
+* [Figma](https://www.figma.com)
+* [CSS Animations](https://animate.style/)
+* [CSS Specificity Calculator](https://specificity.keegan.st/)
 
 ## CSS Learning by games
 * [CSS Dinner](https://flukeout.github.io/)
