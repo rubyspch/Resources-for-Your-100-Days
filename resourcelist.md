@@ -54,6 +54,16 @@
 * [CSS Animations](https://animate.style/)
 * [CSS Specificity Calculator](https://specificity.keegan.st/)
 
+## CSS Tools
+* [Clippy](https://bennettfeely.com/clippy/) -  A tool for creating CSS clip paths of various shapes.
+* [Cubic-Bezier](https://cubic-bezier.com/#.17,.67,.83,.67) - A tool for generating bezier curves for CSS transitions and animations.
+* [CSS Code Generator](https://html-css-js.com/css/generator/) -  See and adjust colour gradient/border,shadow... visualy and get the code as outcome!
+* [CSS Cheat Sheet](https://htmlcheatsheet.com/css/) -  Interactive CSS cheat sheet - selectors, font generator, button generator, reseting codes, shadows...
+* [Shape Divider](https://www.shapedivider.app/) - Shape Divider lets you generate custom shapes to use on your web pages.
+* [CSS Nector](https://cssminifier.com/) - CSS Nectar is a css website design showcase for web designers and developers. Every day we select the best of the web design and add it to our gallery.
+* [CSS Counters](https://www.freecodecamp.org/news/numbering-with-css-counters/) -  CSS counters are used to add counts to elements. The count is added by providing variables that can be initialized (using counter-reset), and these variables can then be incremented by CSS rule.
+* [CSS Minifier:](https://cssminifier.com/) - CSS Minifier is an easy way to Minify/Compress your CSS Files. Simple Quick, Fast and absolutely FREE.
+
 ## CSS Learning by games
 * [CSS Dinner](https://flukeout.github.io/)
 * [Flexbox Zombies](https://mastery.games/)
@@ -70,13 +80,8 @@
 *  [Learn JS](https://www.learn-js.org/) -  A short interactive website which has exercises for introducing new programmers to the primary concepts in JavaScript.
 *  [JS Array explorer](https://sdras.github.io/array-explorer/) - Find the array method you need for your JavaScript array without digging through the docs. A useful resource that can make using arrays easier.
 *  [JS event keycodes](http://keycode.info/) - A great site helps you know the event key of the keyboard.
-*  
-*  
-*  
 
-
-
-### Books
+  ### Books
 * [Eloquent Javscript by Marijn Haverbeke](https://eloquentjavascript.net/index.html) - Great book to work through to pick up and practice JavaScript. 
 * [Exploring JS](https://exploringjs.com/) - contain many js books
 * [Functional Light Javascript](https://exploringjs.com/)
