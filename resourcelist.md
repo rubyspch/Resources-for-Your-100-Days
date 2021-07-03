@@ -90,8 +90,6 @@
 
   ### Podcast
   * [Javascript Jabber](https://devchat.tv/show/javascript-jabber) - A weekly podcast discussing the superb language JavaScript.
-  * 
-  * 
   
   ### Arrays
   * [Array Explorer](https://sdras.github.io/array-explorer/) - Use this tool to find out which array method to use. 
