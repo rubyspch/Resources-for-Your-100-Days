@@ -55,6 +55,7 @@ If you see any comments that you would like to report, please message me on [Twi
 * [seancampbell3161](https://github.com/seancampbell3161)
 * [KrisAirdancer](https://github.com/KrisAirdancer)
 * [jstarks19](https://github.com/jstarks19)
+* [brendanmadden](https://github.com/brendanmadden)
 
 ---
 
