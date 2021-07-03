@@ -46,7 +46,7 @@
 - [Kevin Powell (CSS)](https://www.youtube.com/kepowob/featured)
 - [Fireship](https://www.youtube.com/c/Fireship/featured)
 
-## Useful CSS Resources
+## CSS 
 
 - [CSS Tricks](https://css-tricks.com/)
 - [Curated Color Palettes](https://coolors.co/)
@@ -54,9 +54,6 @@
 - [Figma](https://www.figma.com)
 - [CSS Animations](https://animate.style/)
 - [CSS Specificity Calculator](https://specificity.keegan.st/)
-
-## CSS Tools
-
 - [Clippy](https://bennettfeely.com/clippy/) - A tool for creating CSS clip paths of various shapes.
 - [Cubic-Bezier](https://cubic-bezier.com/#.17,.67,.83,.67) - A tool for generating bezier curves for CSS transitions and animations.
 - [CSS Code Generator](https://html-css-js.com/css/generator/) - See and adjust colour gradient/border,shadow... visualy and get the code as outcome!
@@ -66,14 +63,14 @@
 - [CSS Counters](https://www.freecodecamp.org/news/numbering-with-css-counters/) - CSS counters are used to add counts to elements. The count is added by providing variables that can be initialized (using counter-reset), and these variables can then be incremented by CSS rule.
 - [CSS Minifier:](https://cssminifier.com/) - CSS Minifier is an easy way to Minify/Compress your CSS Files. Simple Quick, Fast and absolutely FREE.
 
-## CSS Learning by games
+  ## CSS Learning Games
 
-- [CSS Dinner](https://flukeout.github.io/)
-- [Flexbox Zombies](https://mastery.games/)
-- [Grid Garden](https://mastery.games/)
-- [Flexbox Defence](http://www.flexboxdefense.com/)
-- [Flexbox Froggy](https://flexboxfroggy.com/)
-- [CodePip](https://codepip.com/)
+  - [CSS Dinner](https://flukeout.github.io/)
+  - [Flexbox Zombies](https://mastery.games/)
+  - [Grid Garden](https://mastery.games/)
+  - [Flexbox Defence](http://www.flexboxdefense.com/)
+  - [Flexbox Froggy](https://flexboxfroggy.com/)
+  - [CodePip](https://codepip.com/)
 
 ## JavaScript
 
@@ -84,13 +81,13 @@
 - [JS Array explorer](https://sdras.github.io/array-explorer/) - Find the array method you need for your JavaScript array without digging through the docs. A useful resource that can make using arrays easier.
 - [JS event keycodes](http://keycode.info/) - A great site helps you know the event key of the keyboard.
 
-### Books
+  ### Books
 
-- [Eloquent Javscript by Marijn Haverbeke](https://eloquentjavascript.net/index.html) - Great book to work through to pick up and practice JavaScript.
-- [Exploring JS](https://exploringjs.com/) - contain many js books
-- [Functional Light Javascript](https://exploringjs.com/)
-- [Javascript for cats](http://jsforcats.com/)
-- [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
+  - [Eloquent Javscript by Marijn Haverbeke](https://eloquentjavascript.net/index.html) - Great book to work through to pick up and practice JavaScript.
+  - [Exploring JS](https://exploringjs.com/) - contain many js books
+  - [Functional Light Javascript](https://exploringjs.com/)
+  - [Javascript for cats](http://jsforcats.com/)
+  - [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
 
   ### Podcast
 
