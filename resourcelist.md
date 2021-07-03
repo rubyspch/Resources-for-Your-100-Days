@@ -64,8 +64,30 @@
 
 ## JavaScript
 
-* [Eloquent Javscript by Marijn Haverbeke](https://eloquentjavascript.net/index.html) - Great book to work through to pick up and practice JavaScript. 
+* [JS tips](https://www.jstips.co/) - S Tips is a collection of useful daily JavaScript tips that will allow you to improve your code writing.
+* [Superhero.js](http://superherojs.com/) - This page is a collection of the best articles, videos and presentations related to JavaScript.
+* [a smarter way to learn](http://www.asmarterwaytolearn.com/js/index-of-exercises.html) -  javascript exercises for beginners
+*  [Learn JS](https://www.learn-js.org/) -  A short interactive website which has exercises for introducing new programmers to the primary concepts in JavaScript.
+*  [JS Array explorer](https://sdras.github.io/array-explorer/) - Find the array method you need for your JavaScript array without digging through the docs. A useful resource that can make using arrays easier.
+*  [JS event keycodes](http://keycode.info/) - A great site helps you know the event key of the keyboard.
+*  
+*  
+*  
 
+
+
+### Books
+* [Eloquent Javscript by Marijn Haverbeke](https://eloquentjavascript.net/index.html) - Great book to work through to pick up and practice JavaScript. 
+* [Exploring JS](https://exploringjs.com/) - contain many js books
+* [Functional Light Javascript](https://exploringjs.com/)
+* [Javascript for cats](http://jsforcats.com/)
+* [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
+
+  ### Podcast
+  * [Javascript Jabber](https://devchat.tv/show/javascript-jabber) - A weekly podcast discussing the superb language JavaScript.
+  * 
+  * 
+  
   ### Arrays
   * [Array Explorer](https://sdras.github.io/array-explorer/) - Use this tool to find out which array method to use. 
   ### ES6
