@@ -7,6 +7,7 @@
   - [Coding Youtube Channels](#coding-youtube-channels)
   - [Places To Host/Deploy Static Site for Free](#places-to-hostdeploy-static-site-for-free)
   - [CSS](#css)
+  - [SVG](#svg)
   - [JavaScript](#javascript)
   - [Python](#python)
   - [Java](#java)
@@ -98,9 +99,6 @@
 - [CSS Counters](https://www.freecodecamp.org/news/numbering-with-css-counters/) - CSS counters are used to add counts to elements. The count is added by providing variables that can be initialized (using counter-reset), and these variables can then be incremented by CSS rule.
 - [CSS Minifier:](https://cssminifier.com/) - CSS Minifier is an easy way to Minify/Compress your CSS Files. Simple Quick, Fast and absolutely FREE.
 - [Modern CSS Resets](https://piccalil.li/blog/a-modern-css-reset/) - A blog on modern CSS resets with sensible defaults and their explanations.
-- [Get Waves](https://getwaves.io/) - Generates smooth and unique SVG section breaks.
-- [Blobmaker](https://www.blobmaker.app/) - Generates random blob-like SVG shapes.
-- [SVG Backgrounds](https://www.svgbackgrounds.com) - Free, scaleable SVG backgrounds in a variety of colours and patterns.
 
   ## CSS Learning Games
 
@@ -110,6 +108,14 @@
   - [Flexbox Defence](http://www.flexboxdefense.com/)
   - [Flexbox Froggy](https://flexboxfroggy.com/)
   - [CodePip](https://codepip.com/)
+
+<a name='svg'/>
+
+## SVG
+
+- [Get Waves](https://getwaves.io/) - Generates smooth and unique SVG section breaks.
+- [Blobmaker](https://www.blobmaker.app/) - Generates random blob-like SVG shapes.
+- [SVG Backgrounds](https://www.svgbackgrounds.com) - Free, scaleable SVG backgrounds in a variety of colours and patterns.
 
 <a name='javascript'/>
 
