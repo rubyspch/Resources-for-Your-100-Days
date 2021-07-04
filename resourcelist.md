@@ -105,6 +105,8 @@
 
 - University of Michigan Free Course - [Programming for Everybody (Getting Started with Python) by Charles Severance](https://www.futurelearn.com/courses/programming-for-everybody-python)
 - [Kaggle Microcourses](https://www.kaggle.com/learn) - Great short (5-10 hour) courses to get an introduction to Python, Machine Learning, and other Data Science topics.
+- [PythonTutor.com](http://www.pythontutor.com/) - Visualize Code Execution
+- [Python Package Index](https://pypi.org/) - A repository of software for the Python programming language
 
 ## Java
 
