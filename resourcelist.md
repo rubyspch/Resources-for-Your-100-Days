@@ -1,5 +1,18 @@
 # :computer: Resources for Your 100 Days :computer:
 
+## Table of Content
+  - [Table of Content](#table-of-content)
+  - [General Useful Websites](#general-useful-websites)
+  - [Coding Challenge Websites](#coding-challenge-websites)
+  - [Coding Youtube Channels](#coding-youtube-channels)
+  - [Places To Host/Deploy Static Site for Free](#places-to-hostdeploy-static-site-for-free)
+  - [CSS](#css)
+  - [JavaScript](#javascript)
+  - [Python](#python)
+  - [Java](#java)
+
+<a name='general-useful-websites'/>
+
 ## General Useful Websites
 
 - [FreeCodeCamp](https://www.freecodecamp.org/learn/) - Free courses to learn everything from HMTL to Machine Learning.
@@ -19,6 +32,8 @@
 - [App Academy Open](https://open.appacademy.io/)
 - [Harvard CS50 Open](https://cs50.harvard.edu/x/2021/) -Introduction to the intellectual enterprises of computer science and the art of programming
 - [HTML DOM](https://htmldom.dev/) - Manage HTML DOM with vanilla JavaScript (simple code snippets / examples)
+
+<a name='coding-challenge-websites'/>
 
 ## Coding Challenge Websites
 
@@ -40,6 +55,8 @@
 - [Kaggle Competitions](https://www.kaggle.com/competitions) - Data Science challeges & practice datasets
 - [InterviewBit](https://www.interviewbit.com/) - Coding challenges and guides to crack your interviews
 
+<a name='coding-youtube-channels'/>
+
 ## Coding Youtube Channels
 
 - [Traversy Media](https://www.youtube.com/c/TraversyMedia/featured)
@@ -48,6 +65,20 @@
 - [Kevin Powell (CSS)](https://www.youtube.com/kepowob/featured)
 - [Fireship](https://www.youtube.com/c/Fireship/featured)
 - [Dev Ed](https://www.youtube.com/c/DevEd/featured)
+
+<a name='deploy-static-site-for-free'/>
+
+## Places To Host/Deploy Static Site for Free
+  - [Vercel](https://vercel.com/)
+  - [Netlify](https://www.netlify.com/)
+  - [Surge](https://surge.sh/)
+  - [GitHub Pages](https://pages.github.com/)
+  - [GitLab Pages](https://pages.gitlab.io/)
+  - [CloudFlare Pages](https://pages.cloudflare.com/)
+  - [Firebase](https://firebase.google.com/)
+  - [Render](https://render.com/)
+
+<a name='css'/>
 
 ## CSS
 
@@ -75,6 +106,8 @@
   - [Flexbox Defence](http://www.flexboxdefense.com/)
   - [Flexbox Froggy](https://flexboxfroggy.com/)
   - [CodePip](https://codepip.com/)
+
+<a name='javascript'/>
 
 ## JavaScript
 
@@ -105,12 +138,16 @@
 
   - [Object Destructuring](https://www.youtube.com/watch?v=NIq3qLaHCIs&list=LL&index=51) - Great 13 Minute Video by WebDevSimplified to learn the uses and benefits of destructuring.
 
+<a name='python'/>
+
 ## Python
 
 - University of Michigan Free Course - [Programming for Everybody (Getting Started with Python) by Charles Severance](https://www.futurelearn.com/courses/programming-for-everybody-python)
 - [Kaggle Microcourses](https://www.kaggle.com/learn) - Great short (5-10 hour) courses to get an introduction to Python, Machine Learning, and other Data Science topics.
 - [PythonTutor.com](http://www.pythontutor.com/) - Visualize Code Execution
 - [Python Package Index](https://pypi.org/) - A repository of software for the Python programming language
+
+<a name='java'/>
 
 ## Java
 
