@@ -1,6 +1,6 @@
 # Resources for Your 100 Days [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](code_of_conduct.md)
 
-## This is a repository compiling the best resources that 100daysofcode coders use. Our favourite courses, challenges and places to learn. 
+## This is a repository compiling the best resources that 100daysofcode coders use. Our favourite courses, challenges and places to learn. [Click Here to view the resources](https://github.com/rubyspch/Resources-for-Your-100-Days/blob/main/resourcelist.md) 
 
 This repository is for all of us to start contributing to open source. We are often told how important it is to contribute, so I wanted to create a place where contributing is easy and low-stakes. Feel free to try things and make mistakes, and we will fix them together! 
 
