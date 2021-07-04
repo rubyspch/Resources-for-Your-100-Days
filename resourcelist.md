@@ -18,6 +18,7 @@
 - [web.dev](https://web.dev/)
 - [App Academy Open](https://open.appacademy.io/)
 - [Harvard CS50 Open](https://cs50.harvard.edu/x/2021/) -Introduction to the intellectual enterprises of computer science and the art of programming
+- [HTML DOM](https://htmldom.dev/) - Manage HTML DOM with vanilla JavaScript (simple code snippets / examples)
 
 ## Coding Challenge Websites
 
@@ -37,6 +38,7 @@
 - [dev Challenges](https://devchallenges.io/)
 - [hackerEarth](https://www.hackerearth.com/)
 - [Kaggle Competitions](https://www.kaggle.com/competitions) - Data Science challeges & practice datasets
+- [InterviewBit](https://www.interviewbit.com/) - Coding challenges and guides to crack your interviews
 
 ## Coding Youtube Channels
 
@@ -45,8 +47,9 @@
 - [FreeCodeCamp](https://www.youtube.com/c/Freecodecamp/featured)
 - [Kevin Powell (CSS)](https://www.youtube.com/kepowob/featured)
 - [Fireship](https://www.youtube.com/c/Fireship/featured)
+- [Dev Ed](https://www.youtube.com/c/DevEd/featured)
 
-## CSS 
+## CSS
 
 - [CSS Tricks](https://css-tricks.com/)
 - [Curated Color Palettes](https://coolors.co/)
@@ -62,6 +65,7 @@
 - [CSS Nector](https://cssminifier.com/) - CSS Nectar is a css website design showcase for web designers and developers. Every day we select the best of the web design and add it to our gallery.
 - [CSS Counters](https://www.freecodecamp.org/news/numbering-with-css-counters/) - CSS counters are used to add counts to elements. The count is added by providing variables that can be initialized (using counter-reset), and these variables can then be incremented by CSS rule.
 - [CSS Minifier:](https://cssminifier.com/) - CSS Minifier is an easy way to Minify/Compress your CSS Files. Simple Quick, Fast and absolutely FREE.
+- [Modern CSS Resets](https://piccalil.li/blog/a-modern-css-reset/) - A blog on modern CSS resets with sensible defaults and their explanations.
 
   ## CSS Learning Games
 
