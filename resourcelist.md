@@ -127,6 +127,7 @@
 - [Learn JS](https://www.learn-js.org/) - A short interactive website which has exercises for introducing new programmers to the primary concepts in JavaScript.
 - [JS Array explorer](https://sdras.github.io/array-explorer/) - Find the array method you need for your JavaScript array without digging through the docs. A useful resource that can make using arrays easier.
 - [JS event keycodes](http://keycode.info/) - A great site helps you know the event key of the keyboard.
+- [JS Hero](https://www.jshero.net/en/home.html) - A free, beginner-friendly site that introduces key JavaScript concepts and provides practice problems. A useful resource for those who want more experience writing functions before diving into projects.
 
   ### Books
 
