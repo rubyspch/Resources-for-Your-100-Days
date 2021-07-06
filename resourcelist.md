@@ -55,6 +55,7 @@
 - [hackerEarth](https://www.hackerearth.com/)
 - [Kaggle Competitions](https://www.kaggle.com/competitions) - Data Science challeges & practice datasets
 - [InterviewBit](https://www.interviewbit.com/) - Coding challenges and guides to crack your interviews
+- [Checkio](https://checkio.org/) - Story driven python and typescript coding challenges
 
 <a name='coding-youtube-channels'/>
 
@@ -165,3 +166,9 @@
 - [Oracle Java Tutorial](https://docs.oracle.com/javase/tutorial/tutorialLearningPaths.html) - Contains info for beginners and intermediate foundation knowledge of Java.
 - [JavaTpoint](https://www.javatpoint.com/java-tutorial) - Comprehensive resource and tutorials for Java.
 - [GeeksforGeeks](https://www.geeksforgeeks.org/) - Useful for reference tutorials, learning DSA, and has various articles related to programming.
+
+<a name='php'/>
+
+## PHP
+
+- [Laracasts](https://laracasts.com/) - Extensive learning resource for Laravel, PHP, VueJS and more.
