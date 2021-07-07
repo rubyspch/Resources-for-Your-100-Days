@@ -61,6 +61,7 @@ If you see any comments that you would like to report, please message me on [Twi
 * [neicore](https://github.com/neicore)
 * [juliettecurran](https://github.com/juliettecurran)
 * [nkarch32](https://github.com/nkarch32)
+* [ozmos](https://github.com/ozmos)
 
 ---
 
