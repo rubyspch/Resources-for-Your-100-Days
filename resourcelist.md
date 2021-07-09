@@ -69,6 +69,7 @@
 - [Fireship](https://www.youtube.com/c/Fireship/featured)
 - [Dev Ed](https://www.youtube.com/c/DevEd/featured)
 - [Code with Ania Kubów](https://www.youtube.com/channel/UC5DNytAJ6_FISueUfzZCVsw)
+- [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
 
 <a name='deploy-static-site-for-free'/>
 
