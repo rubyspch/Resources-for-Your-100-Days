@@ -12,6 +12,8 @@
   - [Python](#python)
   - [Java](#java)
   - [PHP](#php)
+  - [Kotlin](#kotlin)
+  - [Android](#android)
 
 <a name='general-useful-websites'/>
 
@@ -174,3 +176,38 @@
 ## PHP
 
 - [Laracasts](https://laracasts.com/) - Extensive learning resource for Laravel, PHP, VueJS and more.
+
+<a name='kotlin'/>
+
+## Kotlin
+
+- Google Kotlin Bootcamp [Google](https://developer.android.com/courses/kotlin-bootcamp/overview)
+- Simplified Coding kotlin [Youtube](https://www.youtube.com/playlist?list=PLk7v1Z2rk4hgD4teEDp2cMntnH3sR4D3D)
+- Simplified coding Oops [Youtube](https://www.youtube.com/playlist?list=PLk7v1Z2rk4hjgFKGBxDkb0f09ugBC0xOL)
+
+<a name='android'/>
+
+## Android
+
+- Language: [Kotlin](#kotlin)
+- Google Android Basics [Google](https://developer.android.com/courses/android-basics-kotlin/course)
+- Google Advance Android [Google](https://developer.android.com/courses/kotlin-android-advanced/overview)
+
+  ### Android Projects
+
+  - Philipp Lackner [Youtube](https://www.youtube.com/channel/UCKNTZMRHPLXfqlbdOI7mCkg)
+  - Coding in Flow [Youtube](https://www.youtube.com/channel/UC_Fh8kvtkVPkeihBs42jGcA)
+  - The Android Factory [Youtube](https://www.youtube.com/channel/UCafJ0J81ELiYJgJyd-yqrpQ)
+
+  ### Android Interview
+
+  - Nailing your first job as an Android Developer [Medium](https://proandroiddev.com/nailing-your-first-job-as-an-android-developer-part-1-build-your-portfolio-15f9d532def1)
+  - Android Interview Questions [Medium](https://github.com/MindorksOpenSource/android-interview-questions)
+  - Starter kit for android Interview[Medium](https://medium.com/@abhilashmyworld/starter-kit-for-your-android-interview-145afb7707e0)
+
+
+
+
+ 
+
+
