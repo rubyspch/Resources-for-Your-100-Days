@@ -64,6 +64,7 @@ If you see any comments that you would like to report, please message me on [Twi
 * [ozmos](https://github.com/ozmos)
 * [stephanieopala](https://github.com/stephanieopala)
 * [manish-jandu](https://github.com/manish-jandu)
+* [okhaimie-dev](https://github.com/okhaimie-dev)
 
 ---
 
