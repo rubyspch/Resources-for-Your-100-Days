@@ -166,6 +166,7 @@
 - [PythonTutor.com](http://www.pythontutor.com/) - Visualize Code Execution
 - [Python Package Index](https://pypi.org/) - A repository of software for the Python programming language
 - [Python Programming Beginner Tutorials](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7) - Great Playlist on everything you need to know to get started with Python
+- [Python Roadmap for 2021](https://medium.com/analytics-vidhya/python-roadmap-to-follow-in-2021-1f49715468ca) - Massive resource of zero to hero for Python in 2021 - from dev environments, best libraries, Linux and everything else Python.
 
 <a name='java'/>
 
