@@ -1,19 +1,20 @@
 # :computer: Resources for Your 100 Days :computer:
 
 ## Table of Content
-  - [Table of Content](#table-of-content)
-  - [General Useful Websites](#general-useful-websites)
-  - [Coding Challenge Websites](#coding-challenge-websites)
-  - [Coding Youtube Channels](#coding-youtube-channels)
-  - [Places To Host/Deploy Static Site for Free](#places-to-hostdeploy-static-site-for-free)
-  - [CSS](#css)
-  - [SVG](#svg)
-  - [JavaScript](#javascript)
-  - [Python](#python)
-  - [Java](#java)
-  - [PHP](#php)
-  - [Kotlin](#kotlin)
-  - [Android](#android)
+
+- [Table of Content](#table-of-content)
+- [General Useful Websites](#general-useful-websites)
+- [Coding Challenge Websites](#coding-challenge-websites)
+- [Coding Youtube Channels](#coding-youtube-channels)
+- [Places To Host/Deploy Static Site for Free](#places-to-hostdeploy-static-site-for-free)
+- [CSS](#css)
+- [SVG](#svg)
+- [JavaScript](#javascript)
+- [Python](#python)
+- [Java](#java)
+- [PHP](#php)
+- [Kotlin](#kotlin)
+- [Android](#android)
 
 <a name='general-useful-websites'/>
 
@@ -72,18 +73,20 @@
 - [Dev Ed](https://www.youtube.com/c/DevEd/featured)
 - [Code with Ania Kubów](https://www.youtube.com/channel/UC5DNytAJ6_FISueUfzZCVsw)
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+- [Corey Schafer] (https://www.youtube.com/user/schafer5)
 
 <a name='deploy-static-site-for-free'/>
 
 ## Places To Host/Deploy Static Site for Free
-  - [Vercel](https://vercel.com/)
-  - [Netlify](https://www.netlify.com/)
-  - [Surge](https://surge.sh/)
-  - [GitHub Pages](https://pages.github.com/)
-  - [GitLab Pages](https://pages.gitlab.io/)
-  - [CloudFlare Pages](https://pages.cloudflare.com/)
-  - [Firebase](https://firebase.google.com/)
-  - [Render](https://render.com/)
+
+- [Vercel](https://vercel.com/)
+- [Netlify](https://www.netlify.com/)
+- [Surge](https://surge.sh/)
+- [GitHub Pages](https://pages.github.com/)
+- [GitLab Pages](https://pages.gitlab.io/)
+- [CloudFlare Pages](https://pages.cloudflare.com/)
+- [Firebase](https://firebase.google.com/)
+- [Render](https://render.com/)
 
 <a name='css'/>
 
@@ -162,6 +165,7 @@
 - [Kaggle Microcourses](https://www.kaggle.com/learn) - Great short (5-10 hour) courses to get an introduction to Python, Machine Learning, and other Data Science topics.
 - [PythonTutor.com](http://www.pythontutor.com/) - Visualize Code Execution
 - [Python Package Index](https://pypi.org/) - A repository of software for the Python programming language
+- [Python Programming Beginner Tutorials](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7) - Great Playlist on everything you need to know to get started with Python
 
 <a name='java'/>
 
@@ -204,10 +208,3 @@
   - Nailing your first job as an Android Developer [Medium](https://proandroiddev.com/nailing-your-first-job-as-an-android-developer-part-1-build-your-portfolio-15f9d532def1)
   - Android Interview Questions [Medium](https://github.com/MindorksOpenSource/android-interview-questions)
   - Starter kit for android Interview[Medium](https://medium.com/@abhilashmyworld/starter-kit-for-your-android-interview-145afb7707e0)
-
-
-
-
- 
-
-
