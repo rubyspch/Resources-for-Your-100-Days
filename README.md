@@ -66,6 +66,7 @@ If you see any comments that you would like to report, please message me on [Twi
 * [manish-jandu](https://github.com/manish-jandu)
 * [okhaimie-dev](https://github.com/okhaimie-dev)
 * [jameswylde](https://github.com/jameswylde)
+* [nikldev0](https://github.com/nikldev0)
 
 ---
 
