@@ -38,6 +38,7 @@
 - [App Academy Open](https://open.appacademy.io/)
 - [Harvard CS50 Open](https://cs50.harvard.edu/x/2021/) -Introduction to the intellectual enterprises of computer science and the art of programming
 - [HTML DOM](https://htmldom.dev/) - Manage HTML DOM with vanilla JavaScript (simple code snippets / examples)
+- [Dev Docs](https://devdocs.io/) - A collection of language documentations that are searchable, well maintained and if you want it, available offline. 
 
 <a name='coding-challenge-websites'/>
 
@@ -108,6 +109,7 @@
 - [CSS Counters](https://www.freecodecamp.org/news/numbering-with-css-counters/) - CSS counters are used to add counts to elements. The count is added by providing variables that can be initialized (using counter-reset), and these variables can then be incremented by CSS rule.
 - [CSS Minifier:](https://cssminifier.com/) - CSS Minifier is an easy way to Minify/Compress your CSS Files. Simple Quick, Fast and absolutely FREE.
 - [Modern CSS Resets](https://piccalil.li/blog/a-modern-css-reset/) - A blog on modern CSS resets with sensible defaults and their explanations.
+- [Interactive CSS Grid Generator](https://grid.layoutit.com/) - A free, interactive CSS grid layout generator. Easy and quick to use and bolsters your css skills as you do it!
 
   ## CSS Learning Games
 
