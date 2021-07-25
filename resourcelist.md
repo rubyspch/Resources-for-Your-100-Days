@@ -32,13 +32,14 @@
 - [Khan Acedemy](https://www.khanacademy.org/) -contain courses
 - [SoloLearn](https://www.sololearn.com/home)
 - [The Odin Project](https://www.theodinproject.com/)
-- [Javascriupt.info](https://javascript.info/) - contain js docs and articles
+- [Javascript.info](https://javascript.info/) - contain js docs and articles
 - [MIT Open Courseware](https://ocw.mit.edu/)
 - [web.dev](https://web.dev/)
 - [App Academy Open](https://open.appacademy.io/)
 - [Harvard CS50 Open](https://cs50.harvard.edu/x/2021/) -Introduction to the intellectual enterprises of computer science and the art of programming
 - [HTML DOM](https://htmldom.dev/) - Manage HTML DOM with vanilla JavaScript (simple code snippets / examples)
 - [Dev Docs](https://devdocs.io/) - A collection of language documentations that are searchable, well maintained and if you want it, available offline. 
+- [Github Student Developer pack](https://education.github.com/pack) - Get developer paid services free for students.
 
 <a name='coding-challenge-websites'/>
 
