@@ -143,7 +143,7 @@
 - [manyPixels](https://www.manypixels.co/gallery) - Free Illustration Gallery.
 - [Undraw](https://undraw.co/illustrations) - Find svg images that fit your need.
 - [FreshFolk](https://fresh-folk.com/) - An illustration library of people and objects.
-- 
+
 <a name='javascript'/>
 
 ## JavaScript
