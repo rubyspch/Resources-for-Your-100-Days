@@ -68,6 +68,7 @@ If you see any comments that you would like to report, please message me on [Twi
 * [jameswylde](https://github.com/jameswylde)
 * [nikldev0](https://github.com/nikldev0)
 * [watersro](https://github.com/watersro)
+* [CoderOO7](https://github.com/CoderOO7)
 
 ---
 
