@@ -227,4 +227,4 @@
 
 ## Machine Learning 
 
-- [Introduction to Machine Learning Course (Free)](https://www.udacity.com/course/intro-to-machine-learning--ud120) - FREE udacity course that takes you through the basics of machine learning with lessons on the theory and practical tasks. 
+- [Introduction to Machine Learning Course](https://www.udacity.com/course/intro-to-machine-learning--ud120) - FREE udacity course that takes you through the basics of machine learning with lessons on the theory and practical tasks. 
