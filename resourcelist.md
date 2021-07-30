@@ -16,6 +16,7 @@
 - [Kotlin](#kotlin)
 - [Android](#android)
 - [Source Control](#source-control)
+- [Machine Learning](#machine-learning)
 
 <a name='general-useful-websites'/>
 
@@ -76,7 +77,7 @@
 - [Dev Ed](https://www.youtube.com/c/DevEd/featured)
 - [Code with Ania Kubów](https://www.youtube.com/channel/UC5DNytAJ6_FISueUfzZCVsw)
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
-- [Corey Schafer] (https://www.youtube.com/user/schafer5)
+- [Corey Schafer](https://www.youtube.com/user/schafer5)
 
 <a name='deploy-static-site-for-free'/>
 
@@ -214,11 +215,16 @@
   - Android Interview Questions [Medium](https://github.com/MindorksOpenSource/android-interview-questions)
   - Starter kit for android Interview[Medium](https://medium.com/@abhilashmyworld/starter-kit-for-your-android-interview-145afb7707e0)
 
-
 <a name='source-control'/>
 
-### Source Control
+## Source Control
 
 - [Learn Git Branching](https://learngitbranching.js.org/) - Interactive game to help you learn git.  
 - [Git Explorer](https://gitexplorer.com/) - Find the right commands you need without digging through the web.
 - [Dangit, Git!?!](https://dangitgit.com/en) - A useful toolkit for resolving tricky git issues.
+
+<a name='machine-learning'/>
+
+## Machine Learning 
+
+- [Introduction to Machine Learning Course (Free)](https://www.udacity.com/course/intro-to-machine-learning--ud120) - FREE udacity course that takes you through the basics of machine learning with lessons on the theory and practical tasks. 
