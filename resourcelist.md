@@ -41,6 +41,7 @@
 - [HTML DOM](https://htmldom.dev/) - Manage HTML DOM with vanilla JavaScript (simple code snippets / examples)
 - [Dev Docs](https://devdocs.io/) - A collection of language documentations that are searchable, well maintained and if you want it, available offline. 
 - [Github Student Developer pack](https://education.github.com/pack) - Get developer paid services free for students.
+- [Udemy](https://www.udemy.com/) - Contains courses for almost all fields.
 
 <a name='coding-challenge-websites'/>
 
