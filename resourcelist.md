@@ -9,6 +9,7 @@
 - [Places To Host/Deploy Static Site for Free](#places-to-hostdeploy-static-site-for-free)
 - [CSS](#css)
 - [SVG](#svg)
+- [Illustrations](#illustrations)
 - [JavaScript](#javascript)
 - [Python](#python)
 - [Java](#java)
@@ -132,6 +133,21 @@
 - [Get Waves](https://getwaves.io/) - Generates smooth and unique SVG section breaks.
 - [Blobmaker](https://www.blobmaker.app/) - Generates random blob-like SVG shapes.
 - [SVG Backgrounds](https://www.svgbackgrounds.com) - Free, scaleable SVG backgrounds in a variety of colours and patterns.
+- [Heroicons](https://heroicons.com/) - Beautiful hand-crafted SVG icons,by the makers of Tailwind CSS.
+
+<a name='illustrations'/>
+
+## Illustrations
+
+- [heropatterns](http://www.heropatterns.com/) - A collection of repeatable SVG background patterns for you to use on your web projects.
+- [Woobroesign](https://woobro.design/) - Free Vector Images for Commercial Use.
+- [Isometric](https://isometric.online/) - Free isometric illustrations for designers,startups and companies.
+- [GlazeStack](https://www.glazestock.com/) -  Free illustrations, for everything.
+- [illlustrations](https://illlustrations.co/) - Open source illustrations kit.
+- [freepik](https://www.freepik.com/) -  Find Free Vectors, Stock Photos and PSD.
+- [manyPixels](https://www.manypixels.co/gallery) - Free Illustration Gallery.
+- [Undraw](https://undraw.co/illustrations) - Find svg images that fit your need.
+- [FreshFolk](https://fresh-folk.com/) - An illustration library of people and objects.
 
 <a name='javascript'/>
 
