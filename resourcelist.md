@@ -209,6 +209,24 @@
 - [Java Programming Masterclass](https://www.udemy.com/share/101Wdq2@Pm1gfWJjTFUNcU9GBXJNfRQ=/) - Java programming masterclass with Java expert Tim Buchalka
 - [Design Principles](https://www.udemy.com/share/101WfA2@PW5KVEtgTFUNcU9GBXJOfhRHSn1L/) - Java Design Patterns & SOLID Design Principles by Coffee Powered Crew, 17+ hours of VOD content
 
+  <a name='spring'/>
+  
+  ### Spring
+
+  - [Spring & Hibernate for Beginners](https://www.udemy.com/share/101Wc42@Pm1jfWJcSlYMekJFAkhnVD5H/) - Learn Spring 5 Core, AOP, Spring MVC, Spring Security, Spring REST, Spring Boot 2, Thymeleaf, JPA & Hibernate, more than 10.5k views on udemy
+  - [Spring Framework Documentation](https://docs.spring.io/spring-framework/docs/current/reference/html/) - Spring's own developer reference - no better guide that can explain Spring in this detail
+  - [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/) - Good starting point for Spring RestAPI application development
+  - [Spring Boot Reference Documentation](https://docs.spring.io/spring-boot/docs/current/reference/html/) - 
+  - [Spring 5 and Spring Boot 2](https://www.baeldung.com/spring-tutorial) - Tutorial series on Spring & Spring Boot by Baeldung
+  - [Spring Boot Tutorial](https://www.baeldung.com/spring-boot) - Tutorial series on Spring Boot specific content by Baeldung
+  - [Simple Spring Boot](https://www.tutorialspoint.com/spring_boot/index.htm) - Catalog based tutorials on Spring Boot
+  - [Spring Boot Video Tutorial](https://www.youtube.com/watch?v=UfOxcrxhC0s) - Learn entire Spring Boot in a 4hours session by Edureka!.
+  - [Spring Data JPA](https://www.youtube.com/watch?v=XszpXoII9Sg) - JPA Repositories and Spring Data JPA module tutorial by Daily Code Buffer
+  - [Deploying Microservice to Kubernetes](https://www.youtube.com/watch?v=VAmntTPebKE) - Learn deployment of Spring applications on Kubernetes
+  - [FreeCodeCamp Lesson on Spring](https://www.youtube.com/watch?v=vtPkZShrvXQ) - Beginner friendly course on Spring Applications
+  - [Restful Web Services](https://www.udemy.com/share/1020X42@PW5jfWJcSlYMekJFAkhnfj1t/) - RestAPI development tutorial by Sergey Kargopolov
+  - [Full Stack Integration with Spring & React](https://www.udemy.com/share/101ZKI2@PUdjV11aSVcHd0FCOGJOVD5H/) - Learn full-stack development in Spring Boot and React by AgileIntelligence.
+
 <a name='php'/>
 
 ## PHP
@@ -256,21 +274,3 @@
 ## Machine Learning 
 
 - [Introduction to Machine Learning Course](https://www.udacity.com/course/intro-to-machine-learning--ud120) - FREE udacity course that takes you through the basics of machine learning with lessons on the theory and practical tasks. 
-
-<a name='spring'/>
-
-## Spring
-
-- [Spring & Hibernate for Beginners](https://www.udemy.com/share/101Wc42@Pm1jfWJcSlYMekJFAkhnVD5H/) - Learn Spring 5 Core, AOP, Spring MVC, Spring Security, Spring REST, Spring Boot 2, Thymeleaf, JPA & Hibernate, more than 10.5k views on udemy
-- [Spring Framework Documentation](https://docs.spring.io/spring-framework/docs/current/reference/html/) - Spring's own developer reference - no better guide that can explain Spring in this detail
-- [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/) - Good starting point for Spring RestAPI application development
-- [Spring Boot Reference Documentation](https://docs.spring.io/spring-boot/docs/current/reference/html/) - 
-- [Spring 5 and Spring Boot 2](https://www.baeldung.com/spring-tutorial) - Tutorial series on Spring & Spring Boot by Baeldung
-- [Spring Boot Tutorial](https://www.baeldung.com/spring-boot) - Tutorial series on Spring Boot specific content by Baeldung
-- [Simple Spring Boot](https://www.tutorialspoint.com/spring_boot/index.htm) - Catalog based tutorials on Spring Boot
-- [Spring Boot Video Tutorial](https://www.youtube.com/watch?v=UfOxcrxhC0s) - Learn entire Spring Boot in a 4hours session by Edureka!.
-- [Spring Data JPA](https://www.youtube.com/watch?v=XszpXoII9Sg) - JPA Repositories and Spring Data JPA module tutorial by Daily Code Buffer
-- [Deploying Microservice to Kubernetes](https://www.youtube.com/watch?v=VAmntTPebKE)
-- [FreeCodeCamp Lesson on Spring](https://www.youtube.com/watch?v=vtPkZShrvXQ) - Beginner friendly course on Spring Applications
-- [Restful Web Services](https://www.udemy.com/share/1020X42@PW5jfWJcSlYMekJFAkhnfj1t/) - RestAPI development tutorial by Sergey Kargopolov
-- [Full Stack Integration with Spring & React](https://www.udemy.com/share/101ZKI2@PUdjV11aSVcHd0FCOGJOVD5H/) - Learn full-stack development in Spring Boot and React by AgileIntelligence.
