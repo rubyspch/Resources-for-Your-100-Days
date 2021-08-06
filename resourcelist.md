@@ -18,6 +18,7 @@
 - [Android](#android)
 - [Source Control](#source-control)
 - [Machine Learning](#machine-learning)
+- [Spring ](#spring)
 
 <a name='general-useful-websites'/>
 
@@ -199,6 +200,32 @@
 - [Oracle Java Tutorial](https://docs.oracle.com/javase/tutorial/tutorialLearningPaths.html) - Contains info for beginners and intermediate foundation knowledge of Java.
 - [JavaTpoint](https://www.javatpoint.com/java-tutorial) - Comprehensive resource and tutorials for Java.
 - [GeeksforGeeks](https://www.geeksforgeeks.org/) - Useful for reference tutorials, learning DSA, and has various articles related to programming.
+- [GeeksforGeeks Java](https://www.geeksforgeeks.org/java/) - Comprehensive list of OOP concepts, DS & algorithm in Java, Collections framework and many more.
+- [JavaMadeSoEasy (JMSE)](https://www.javamadesoeasy.com/) - Huge collection of interview questions and answers. All solutions consists of references to detailed solutions and theories.
+- [DZone RefCardz](https://dzone.com/refcardz) - The world's largest library of technical cheat sheets, as they say it.
+- [Getting Started with Java](https://www.baeldung.com/get-started-with-java-series) - Good collection of tutorials that will help you get started with the basic concepts in Java.
+- [JavaBrains Youtube Channel](https://www.youtube.com/c/JavaBrainsChannel) - Free Java courses & tutorials with in-depth explanation of concept and real-world applications.
+- [in28minutes Repositories](https://github.com/in28minutes) - GitHub repository with huge collection of projects on Java, Spring, Microservices, etc.
+- [Java Programming Masterclass](https://www.udemy.com/share/101Wdq2@Pm1gfWJjTFUNcU9GBXJNfRQ=/) - Java programming masterclass with Java expert Tim Buchalka
+- [Design Principles](https://www.udemy.com/share/101WfA2@PW5KVEtgTFUNcU9GBXJOfhRHSn1L/) - Java Design Patterns & SOLID Design Principles by Coffee Powered Crew, 17+ hours of VOD content
+
+  <a name='spring'/>
+  
+  ### Spring
+
+  - [Spring & Hibernate for Beginners](https://www.udemy.com/share/101Wc42@Pm1jfWJcSlYMekJFAkhnVD5H/) - Learn Spring 5 Core, AOP, Spring MVC, Spring Security, Spring REST, Spring Boot 2, Thymeleaf, JPA & Hibernate, more than 10.5k views on udemy
+  - [Spring Framework Documentation](https://docs.spring.io/spring-framework/docs/current/reference/html/) - Spring's own developer reference - no better guide that can explain Spring in this detail
+  - [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/) - Good starting point for Spring RestAPI application development
+  - [Spring Boot Reference Documentation](https://docs.spring.io/spring-boot/docs/current/reference/html/) - 
+  - [Spring 5 and Spring Boot 2](https://www.baeldung.com/spring-tutorial) - Tutorial series on Spring & Spring Boot by Baeldung
+  - [Spring Boot Tutorial](https://www.baeldung.com/spring-boot) - Tutorial series on Spring Boot specific content by Baeldung
+  - [Simple Spring Boot](https://www.tutorialspoint.com/spring_boot/index.htm) - Catalog based tutorials on Spring Boot
+  - [Spring Boot Video Tutorial](https://www.youtube.com/watch?v=UfOxcrxhC0s) - Learn entire Spring Boot in a 4hours session by Edureka!.
+  - [Spring Data JPA](https://www.youtube.com/watch?v=XszpXoII9Sg) - JPA Repositories and Spring Data JPA module tutorial by Daily Code Buffer
+  - [Deploying Microservice to Kubernetes](https://www.youtube.com/watch?v=VAmntTPebKE) - Learn deployment of Spring applications on Kubernetes
+  - [FreeCodeCamp Lesson on Spring](https://www.youtube.com/watch?v=vtPkZShrvXQ) - Beginner friendly course on Spring Applications
+  - [Restful Web Services](https://www.udemy.com/share/1020X42@PW5jfWJcSlYMekJFAkhnfj1t/) - RestAPI development tutorial by Sergey Kargopolov
+  - [Full Stack Integration with Spring & React](https://www.udemy.com/share/101ZKI2@PUdjV11aSVcHd0FCOGJOVD5H/) - Learn full-stack development in Spring Boot and React by AgileIntelligence.
 
 <a name='php'/>
 
