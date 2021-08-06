@@ -70,6 +70,7 @@ If you see any comments that you would like to report, please message me on [Twi
 * [watersro](https://github.com/watersro)
 * [CoderOO7](https://github.com/CoderOO7)
 * [Esther-Wavinya](https://github.com/Esther-Wavinya)
+* [myself-plato](https://github.com/myself-plato)
 
 ---
 
