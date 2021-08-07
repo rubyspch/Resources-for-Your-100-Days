@@ -5,7 +5,7 @@
 - [Table of Content](#table-of-content)
 - [General Useful Websites](#general-useful-websites)
 - [Coding Challenge Websites](#coding-challenge-websites)
-- [Coding Youtube Channels](#coding-youtube-channels)
+- [Coding YouTube Channels](#coding-youtube-channels)
 - [Places To Host/Deploy Static Site for Free](#places-to-hostdeploy-static-site-for-free)
 - [CSS](#css)
 - [SVG](#svg)
@@ -46,6 +46,9 @@
 - [Eduonix](https://www.eduonix.com/) - Contains a range of information technology courses
 - [Udacity](https://www.udacity.com/) - Their Nanodegree programs are built in partnership with the world’s most innovative tech companies and taught by industry leaders.
 - [Udemy](https://www.udemy.com/) - Contains courses for almost all fields.
+- [LinkedIn Learning](https://www.linkedin.com/learning/me) - A learning platform for technical and non-technical courses
+- [Pluralsight](https://app.pluralsight.com/library/free) - Build in-demand tech skills with free access to expert-led courses
+- [Stack Overflow](https://stackoverflow.com/) - Stack Overflow is a question and answer site for professional and enthusiast programmers
 
 <a name='coding-challenge-websites'/>
 
@@ -69,10 +72,11 @@
 - [Kaggle Competitions](https://www.kaggle.com/competitions) - Data Science challeges & practice datasets
 - [InterviewBit](https://www.interviewbit.com/) - Coding challenges and guides to crack your interviews
 - [Checkio](https://checkio.org/) - Story driven python and typescript coding challenges
+- [Pluralsight RoleIQ](https://app.pluralsight.com/roleiq/) - The self assessment site to measure your technical skills and showcase them on stackoverflow profile
 
 <a name='coding-youtube-channels'/>
 
-## Coding Youtube Channels
+## Coding YouTube Channels
 
 - [Traversy Media](https://www.youtube.com/c/TraversyMedia/featured)
 - [WebDevSimplified](https://www.youtube.com/c/WebDevSimplified/featured)
@@ -268,9 +272,15 @@
 - [Learn Git Branching](https://learngitbranching.js.org/) - Interactive game to help you learn git.  
 - [Git Explorer](https://gitexplorer.com/) - Find the right commands you need without digging through the web.
 - [Dangit, Git!?!](https://dangitgit.com/en) - A useful toolkit for resolving tricky git issues.
+- [Git Manual Page](https://git.github.io/htmldocs/git.html) - The GitHub manual page for git
+- [GitHub Git cheatsheet](https://training.github.com/downloads/github-git-cheat-sheet/) - The GitHub training git cheet sheet
+- [Git cheatsheet](https://ndpsoftware.com/git-cheatsheet.html) - The interactive git cheat sheet
+- [Git documentation](https://git-scm.com/docs) - The official documentation for Git
+- [Apache Subversion](https://subversion.apache.org/quick-start) - The Apache open source version control system
 
 <a name='machine-learning'/>
 
 ## Machine Learning 
 
 - [Introduction to Machine Learning Course](https://www.udacity.com/course/intro-to-machine-learning--ud120) - FREE udacity course that takes you through the basics of machine learning with lessons on the theory and practical tasks. 
+- [Machine Learning](https://www.coursera.org/learn/machine-learning?utm_source=gg&utm_medium=sem&utm_campaign=07-StanfordML-IN&utm_content=07-StanfordML-IN&campaignid=1950458127&adgroupid=71501032500&device=c&keyword=coursera%20machine%20learning&matchtype=p&network=g&devicemodel=&adpostion=&creativeid=415449761695&hide_mobile_promo&gclid=Cj0KCQjwu7OIBhCsARIsALxCUaNtkqQRMqOg1Urcdqg7YjS8Y5aWHJ9DLf_3KvQ-i8jVUzL2HQZOteEaAgI7EALw_wcB) - The top-rated Machine Learning course offered by Stanford University Online  
