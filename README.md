@@ -72,6 +72,7 @@ If you see any comments that you would like to report, please message me on [Twi
 * [Esther-Wavinya](https://github.com/Esther-Wavinya)
 * [myself-plato](https://github.com/myself-plato)
 * [DiegoPaula](https://github.com/DiegoPaula)
+* [snowmoss10](https://github.com/snowmoss10)
 
 ---
 
