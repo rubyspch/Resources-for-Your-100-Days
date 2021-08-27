@@ -41,7 +41,7 @@
 - [App Academy Open](https://open.appacademy.io/)
 - [Harvard CS50 Open](https://cs50.harvard.edu/x/2021/) -Introduction to the intellectual enterprises of computer science and the art of programming
 - [HTML DOM](https://htmldom.dev/) - Manage HTML DOM with vanilla JavaScript (simple code snippets / examples)
-- [Dev Docs](https://devdocs.io/) - A collection of language documentations that are searchable, well maintained and if you want it, available offline. 
+- [Dev Docs](https://devdocs.io/) - A collection of language documentations that are searchable, well maintained and if you want it, available offline.
 - [Github Student Developer pack](https://education.github.com/pack) - Get developer paid services free for students.
 - [Eduonix](https://www.eduonix.com/) - Contains a range of information technology courses
 - [Udacity](https://www.udacity.com/) - Their Nanodegree programs are built in partnership with the world’s most innovative tech companies and taught by industry leaders.
@@ -202,6 +202,7 @@
 - [Python Package Index](https://pypi.org/) - A repository of software for the Python programming language
 - [Python Programming Beginner Tutorials](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7) - Great Playlist on everything you need to know to get started with Python
 - [Python Roadmap for 2021](https://medium.com/analytics-vidhya/python-roadmap-to-follow-in-2021-1f49715468ca) - Massive resource of zero to hero for Python in 2021 - from dev environments, best libraries, Linux and everything else Python.
+- [Practical Python Programming](https://dabeaz-course.github.io/practical-python/) - Python Course by David Beazley.
 
 <a name='java'/>
 
@@ -220,13 +221,13 @@
 - [Design Principles](https://www.udemy.com/share/101WfA2@PW5KVEtgTFUNcU9GBXJOfhRHSn1L/) - Java Design Patterns & SOLID Design Principles by Coffee Powered Crew, 17+ hours of VOD content
 
   <a name='spring'/>
-  
+
   ### Spring
 
   - [Spring & Hibernate for Beginners](https://www.udemy.com/share/101Wc42@Pm1jfWJcSlYMekJFAkhnVD5H/) - Learn Spring 5 Core, AOP, Spring MVC, Spring Security, Spring REST, Spring Boot 2, Thymeleaf, JPA & Hibernate, more than 10.5k views on udemy
   - [Spring Framework Documentation](https://docs.spring.io/spring-framework/docs/current/reference/html/) - Spring's own developer reference - no better guide that can explain Spring in this detail
   - [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/) - Good starting point for Spring RestAPI application development
-  - [Spring Boot Reference Documentation](https://docs.spring.io/spring-boot/docs/current/reference/html/) - 
+  - [Spring Boot Reference Documentation](https://docs.spring.io/spring-boot/docs/current/reference/html/) -
   - [Spring 5 and Spring Boot 2](https://www.baeldung.com/spring-tutorial) - Tutorial series on Spring & Spring Boot by Baeldung
   - [Spring Boot Tutorial](https://www.baeldung.com/spring-boot) - Tutorial series on Spring Boot specific content by Baeldung
   - [Simple Spring Boot](https://www.tutorialspoint.com/spring_boot/index.htm) - Catalog based tutorials on Spring Boot
@@ -286,7 +287,7 @@
 
 <a name='machine-learning'/>
 
-## Machine Learning 
+## Machine Learning
 
-- [Introduction to Machine Learning Course](https://www.udacity.com/course/intro-to-machine-learning--ud120) - FREE udacity course that takes you through the basics of machine learning with lessons on the theory and practical tasks. 
+- [Introduction to Machine Learning Course](https://www.udacity.com/course/intro-to-machine-learning--ud120) - FREE udacity course that takes you through the basics of machine learning with lessons on the theory and practical tasks.
 - [Machine Learning](https://www.coursera.org/learn/machine-learning?utm_source=gg&utm_medium=sem&utm_campaign=07-StanfordML-IN&utm_content=07-StanfordML-IN&campaignid=1950458127&adgroupid=71501032500&device=c&keyword=coursera%20machine%20learning&matchtype=p&network=g&devicemodel=&adpostion=&creativeid=415449761695&hide_mobile_promo&gclid=Cj0KCQjwu7OIBhCsARIsALxCUaNtkqQRMqOg1Urcdqg7YjS8Y5aWHJ9DLf_3KvQ-i8jVUzL2HQZOteEaAgI7EALw_wcB) - The top-rated Machine Learning course offered by Stanford University Online  
