@@ -73,6 +73,7 @@ If you see any comments that you would like to report, please message me on [Twi
 * [myself-plato](https://github.com/myself-plato)
 * [DiegoPaula](https://github.com/DiegoPaula)
 * [snowmoss10](https://github.com/snowmoss10)
+* [habc0d3r](https://github.com/habc0d3r)
 
 ---
 
