@@ -203,6 +203,12 @@
 - [Python Programming Beginner Tutorials](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7) - Great Playlist on everything you need to know to get started with Python
 - [Python Roadmap for 2021](https://medium.com/analytics-vidhya/python-roadmap-to-follow-in-2021-1f49715468ca) - Massive resource of zero to hero for Python in 2021 - from dev environments, best libraries, Linux and everything else Python.
 - [Practical Python Programming](https://dabeaz-course.github.io/practical-python/) - Python Course by David Beazley.
+- [Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/) - freeCodeCamp Python course by Dr. Charles Severance
+  
+  
+  ### Books
+  
+  -[Python for Everybody by Dr. Charles R. Severance](http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf)
 
 <a name='java'/>
 
@@ -291,3 +297,4 @@
 
 - [Introduction to Machine Learning Course](https://www.udacity.com/course/intro-to-machine-learning--ud120) - FREE udacity course that takes you through the basics of machine learning with lessons on the theory and practical tasks.
 - [Machine Learning](https://www.coursera.org/learn/machine-learning?utm_source=gg&utm_medium=sem&utm_campaign=07-StanfordML-IN&utm_content=07-StanfordML-IN&campaignid=1950458127&adgroupid=71501032500&device=c&keyword=coursera%20machine%20learning&matchtype=p&network=g&devicemodel=&adpostion=&creativeid=415449761695&hide_mobile_promo&gclid=Cj0KCQjwu7OIBhCsARIsALxCUaNtkqQRMqOg1Urcdqg7YjS8Y5aWHJ9DLf_3KvQ-i8jVUzL2HQZOteEaAgI7EALw_wcB) - The top-rated Machine Learning course offered by Stanford University Online  
+- [Machine Learning with Python](https://www.freecodecamp.org/learn/machine-learning-with-python/#tensorflow) - From fundamental to Neural Networks, including 5 ML projects.
