@@ -74,6 +74,7 @@ If you see any comments that you would like to report, please message me on [Twi
 * [DiegoPaula](https://github.com/DiegoPaula)
 * [snowmoss10](https://github.com/snowmoss10)
 * [habc0d3r](https://github.com/habc0d3r)
+* [aquatic0s](https://github.com/aquatic0s)
 
 ---
 
