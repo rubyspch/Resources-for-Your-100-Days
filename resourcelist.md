@@ -204,7 +204,7 @@
 - [Python Roadmap for 2021](https://medium.com/analytics-vidhya/python-roadmap-to-follow-in-2021-1f49715468ca) - Massive resource of zero to hero for Python in 2021 - from dev environments, best libraries, Linux and everything else Python.
 - [Practical Python Programming](https://dabeaz-course.github.io/practical-python/) - Python Course by David Beazley.
 - [Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/) - freeCodeCamp Python course by Dr. Charles Severance
-  
+- [MITx 6.00.1x: Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) - If you are looking for a Challenging, yet fun Introductory CS course on Python by Eric Grimson, John Guttag and Ana Bell; with emphasis on Computational thinking.
   
   ### Books
   
