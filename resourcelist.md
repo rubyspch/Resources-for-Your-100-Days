@@ -208,9 +208,9 @@
   
   ### Books
   
-  -[Python for Everybody by Dr. Charles R. Severance](http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf)
-  -[Learn Python 3 the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code](https://www.oreilly.com/library/view/learn-python-3/9780134693866/) - If you know another language and want to transition to Python or just want to quickly breeze through the syntax. Easy to follow along (Don't go by the name lol).
-  -[Introduction to Computation and Programming Using Python: With Application to Understanding Data, 2nd Edition](https://mitpress.mit.edu/books/introduction-computation-and-programming-using-python-second-edition) - A challenging and fast paced book with a steep learning curve; recommended as a companion book to the MITx 6.00.1x course on edX.
+  - [Python for Everybody by Dr. Charles R. Severance](http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf)
+  - [Learn Python 3 the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code](https://www.oreilly.com/library/view/learn-python-3/9780134693866/) - If you know another language and want to transition to Python or just want to quickly breeze through the syntax. Easy to follow along (Don't go by the name lol).
+  - [Introduction to Computation and Programming Using Python: With Application to Understanding Data, 2nd Edition](https://mitpress.mit.edu/books/introduction-computation-and-programming-using-python-second-edition) - A challenging and fast paced book with a steep learning curve; recommended as a companion book to the MITx 6.00.1x course on edX.
 
 <a name='java'/>
 
