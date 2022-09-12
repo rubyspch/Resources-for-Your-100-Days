@@ -49,6 +49,7 @@
 - [LinkedIn Learning](https://www.linkedin.com/learning/me) - A learning platform for technical and non-technical courses
 - [Pluralsight](https://app.pluralsight.com/library/free) - Build in-demand tech skills with free access to expert-led courses
 - [Stack Overflow](https://stackoverflow.com/) - Stack Overflow is a question and answer site for professional and enthusiast programmers
+- [Statology](https://www.statology.org/) - Statology is a site that makes learning statistics easy by explaining topics in simple and straightforward ways.
 
 <a name='coding-challenge-websites'/>
 
